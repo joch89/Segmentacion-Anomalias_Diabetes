@@ -1,4 +1,4 @@
-# Proyecto Segmentación y Detección de Anomalías en Pacientes Crónicos
+# Proyecto: Segmentación y Detección de Anomalías en Pacientes Crónicos con Técnica de Aprendizaje No Supervisado
 
 ## 🎯 Objetivo del Proyecto
 
@@ -28,7 +28,7 @@ El siguiente gráfico ilustra la segmentación obtenida después de la reducció
 
 **Gráfico de Segmentación y Detección de Anomalías (Ejemplo)**
 
-![Gráfico del resultado principal que muestra los clústeres de pacientes y los outliers.](Proyecto_3.png)
+![Gráfico del resultado principal que muestra los clústeres de pacientes y los outliers.](proyecto_3.png)
 
 ## 📁 Archivos
 
