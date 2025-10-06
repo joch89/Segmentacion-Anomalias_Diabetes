@@ -1,8 +1,8 @@
-# Evaluación Modular 6: Segmentación y Detección de Anomalías en Pacientes Crónicos
+# Proyecto Segmentación y Detección de Anomalías en Pacientes Crónicos
 
 ## 🎯 Objetivo del Proyecto
 
-Aplicar técnicas avanzadas de **aprendizaje no supervisado** para identificar grupos de pacientes con condiciones clínicas similares (segmentación) y detectar perfiles atípicos (detección de anomalías) dentro del conjunto de datos **Pima Indians Diabetes Dataset**.
+Aplicar técnicas avanzadas de **Aprendizaje No Supervisado** para identificar grupos de pacientes con condiciones clínicas similares (segmentación) y detectar perfiles atípicos (detección de anomalías) dentro del conjunto de datos **Pima Indians Diabetes Dataset**.
 
 El análisis se centra en la justificación de las decisiones de *clustering* y reducción de dimensionalidad en función de las métricas de evaluación y la interpretabilidad clínica de los resultados.
 
